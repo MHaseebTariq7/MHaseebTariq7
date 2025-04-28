@@ -43,16 +43,8 @@ I'm actively seeking collaboration opportunities on:
 - Innovative SaaS projects
 - Modern web solutions
 
-## 📈 Current Focus
+## 📈 Growth Tracker
 
-```chart
-{
-  "type": "bar",
-  "data": {
-    "labels": ["MERN Stack", "DevOps", "UI Components"],
-    "datasets": [{
-      "data": [70, 40, 60],
-      "backgroundColor": ["#38a169", "#3182ce", #6B46C1"]
-    }]
-  }
-}
+![MERN Stack](https://geps.dev/progress/70?dangerColor=2F855A&warningColor=2F855A&successColor=2F855A) **MERN Mastery**  
+![DevOps](https://geps.dev/progress/40?dangerColor=2B6CB0&warningColor=2B6CB0&successColor=2B6CB0) **DevOps Journey**  
+![UI Components](https://geps.dev/progress/60?dangerColor=6B46C1&warningColor=6B46C1&successColor=6B46C1) **UI Architecture**
