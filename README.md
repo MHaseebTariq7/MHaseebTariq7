@@ -28,8 +28,8 @@
 
 ## 🌐 Let's Connect
 
-- 📞 **Phone:** [+92 313 4178484](tel:+923134178484)
-- 📧 **Email:** [muhammadhaseebtariq2@gmail.com](mailto:muhammadhaseebtariq2@gmail.com)
+- 📞 [**Phone:**](tel:+923134178484)
+- 📧 [**Email:**](mailto:muhammadhaseebtariq2@gmail.com)
 - 💼 [**LinkedIn:**](https://www.linkedin.com/in/muhammadhaseebtariq2/)
 - 📸 [**Instagram:**](https://www.instagram.com/muhammadhaseebtariq/)
 ## 🌟 Collaboration
