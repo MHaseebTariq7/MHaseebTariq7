@@ -43,8 +43,13 @@ I'm actively seeking collaboration opportunities on:
 - Innovative SaaS projects
 - Modern web solutions
 
-## 📈 Progress Dashboard
+## 📈 Skill Development
 
-[![MERN Progress](https://img.shields.io/badge/MERN-70%25-brightgreen?style=for-the-badge&logo=react)](https://)
-[![DevOps Progress](https://img.shields.io/badge/DevOps-40%25-blue?style=for-the-badge&logo=jenkins)](https://)
-[![UI Progress](https://img.shields.io/badge/UI_Components-60%25-purple?style=for-the-badge&logo=figma)](https://)
+**🌿 MERN Ecosystem**  
+▓▓▓▓▓▓▓▓▓▓░░░░ 70%  
+
+**⚙️ DevOps Pipeline**  
+▓▓▓▓▓░░░░░░░░░ 40%  
+
+**🎨 UI Patterns**  
+▓▓▓▓▓▓▓▓░░░░░░ 60%
