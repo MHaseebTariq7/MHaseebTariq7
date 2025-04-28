@@ -1,10 +1,12 @@
 # 👋 Hello, I'm Muhammad Haseeb Tariq
 
-**Software Developer | MERN Stack Enthusiast | Web Craftsman**
+**Software Engineer | MERN Stack Developer | Web Craftsman**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadhaseebtariq2/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100073363053040)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadhaseebtariq2@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923134178484)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-haseeb-tariq/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadhaseebtariq2@gmail.com)
 
 ## 🚀 About Me
 
@@ -25,10 +27,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-## 🌐 Let's Connect
-
-📞 **Phone:** [+92 313 4178484](tel:+923134178484) | 📧 [**Email:**](mailto:muhammadhaseebtariq2@gmail.com) | 💼 [**LinkedIn:**](https://www.linkedin.com/in/muhammadhaseebtariq2/) | 📸 [**Instagram:**](https://www.instagram.com/muhammadhaseebtariq/)
 
 ## 🌟 Collaboration
 
