@@ -30,9 +30,8 @@
 
 - 📞 **Phone:** [+92 313 4178484](tel:+923134178484)
 - 📧 **Email:** [muhammadhaseebtariq2@gmail.com](mailto:muhammadhaseebtariq2@gmail.com)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/muhammadhaseebtariq2/)
-- 📸 **Instagram:** [Follow my journey](https://www.instagram.com/muhammadhaseebtariq/)
-
+- 💼 **LinkedIn:(https://www.linkedin.com/in/muhammadhaseebtariq2/)** 
+- 📸 **Instagram:(https://www.instagram.com/muhammadhaseebtariq/)**
 ## 🌟 Collaboration
 
 I'm actively seeking collaboration opportunities on:
