@@ -35,8 +35,6 @@
 
 ## 🌟 Collaboration
 
-> "Alone we can do so little; together we can do so much." - Helen Keller
-
 I'm actively seeking collaboration opportunities on:
 - Full-stack web applications
 - Open source contributions
