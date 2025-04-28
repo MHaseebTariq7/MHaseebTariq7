@@ -43,30 +43,16 @@ I'm actively seeking collaboration opportunities on:
 - Innovative SaaS projects
 - Modern web solutions
 
-## 📈 Learning Progress
+## 📈 Current Focus
 
-<div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-  <div style="background: #f0fdf4; padding: 1rem; border-radius: 8px; width: 200px;">
-    <h4>🌱 MERN Stack</h4>
-    <div style="background: #dcfce7; height: 8px; border-radius: 4px;">
-      <div style="width: 70%; background: #22c55e; height: 100%; border-radius: 4px;"></div>
-    </div>
-    <span style="color: #22c55e;">70% Complete</span>
-  </div>
-  
-  <div style="background: #f0f9ff; padding: 1rem; border-radius: 8px; width: 200px;">
-    <h4>⚙️ DevOps</h4>
-    <div style="background: #e0f2fe; height: 8px; border-radius: 4px;">
-      <div style="width: 40%; background: #3b82f6; height: 100%; border-radius: 4px;"></div>
-    </div>
-    <span style="color: #3b82f6;">40% Complete</span>
-  </div>
-  
-  <div style="background: #faf5ff; padding: 1rem; border-radius: 8px; width: 200px;">
-    <h4>🎨 UI Components</h4>
-    <div style="background: #f3e8ff; height: 8px; border-radius: 4px;">
-      <div style="width: 60%; background: #8b5cf6; height: 100%; border-radius: 4px;"></div>
-    </div>
-    <span style="color: #8b5cf6;">60% Complete</span>
-  </div>
-</div>
+```chart
+{
+  "type": "bar",
+  "data": {
+    "labels": ["MERN Stack", "DevOps", "UI Components"],
+    "datasets": [{
+      "data": [70, 40, 60],
+      "backgroundColor": ["#38a169", "#3182ce", #6B46C1"]
+    }]
+  }
+}
